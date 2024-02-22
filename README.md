@@ -7,4 +7,6 @@ This project work utilizes the potential of Natural Language Processing, and Mac
 
 Hence, the proposed system consists of a pre-processing function, command classification, parameter classification, and post-processing function, thereby utilizing the Neural Machine Translation(NMT) approach by using RNN encoding-decoding for classification purposes. 
 
-We would like to let you know that this project was a part of our B.E. INFORMATION TECHNOLOGY curriculum, i.e., this was our Final Year Project. We have attached detailed report with diagrams and explanations, and also output of this project. Please refer REPORT.pdf for the same.
+We would like to let you know that this project was a part of our B.E. INFORMATION TECHNOLOGY curriculum, i.e., this was our Final Year Project. 
+
+NOTE - WE HAVE ATTACHED DETAILED REPORT WITH DIAGRAMS AND EXPLANATIONS REGARDING DIFFERENT FILES INCLUDED, AND OUTPUT OF THIS PROJECT. PLEASE REFER REPORT.PDF FOR THE SAME.
